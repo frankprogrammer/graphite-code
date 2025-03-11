@@ -42,7 +42,7 @@ QMK does not allow you to use the Mod Tap functiallity on Shifted keys, but I wa
 
 **TD(0)** is defined in Vial as **"** on tap and **Shift** on Hold. **TD(1)** is definded as **:** on tap and **Alt** on hold. You could mirror this functionlity on the left side if needed.
 
-This results in the home row being **<pre>(){}&       ^"':;</pre>**
+This results in the home row being **<pre>( ) { } &      ^ " ' : ;</pre>**
 
 Having the **=** key also on this layer is must for coding and it feels way better on the left side in this case. **TD(2)** is defined in Vial as **~** on tap and **`** on double tap.
 

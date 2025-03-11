@@ -4,7 +4,7 @@ I use my 34 key [Crab Broom (Choc Ferris Sweep)](https://www.boardsource.xyz/pro
 
 After using my 42 key [Unicorne Keymap](https://github.com/frankprogrammer/qmk_userspace) I realized that putting modifiers on the outer columns just made things very hard to use and that Home Row Mods were the solution.
 
-[Home Row Mods](https://precondition.github.io/home-row-mods) are amazing but they also introduce issues like firing by accident and adding a slight delay to the keys they are on. This delay drove me insane and so the perfect solution was to just put them on seperate layer that was easily accessible.
+[Home Row Mods](https://precondition.github.io/home-row-mods) are amazing but they also introduce issues like firing by accident and adding a slight delay to the keys they are on. This delay drove me insane and so the perfect solution was to just put them on a seperate layer that was easily accessible.
 
 [Download my Vial saved layout](ferris-sweep-vial.vil) - Requires downloading the Vial app
 
@@ -38,13 +38,17 @@ This layer also includes Home Row Mods on the right half to use mainly with the 
 
 The 8 symbols on the homerow locations are my most used coding symbols.
 
-QMK does not allow you to use the Mod Tap functiallity on Shifted keys, but I was able to implement the Home Row Mods using Tap Dance.
+QMK does not allow you to use the Mod Tap functiallity on Shifted keys, but I was able to implement the Home Row Mods using Tap Dance keys.
 
 **TD(0)** is defined in Vial as **"** on tap and **Shift** on Hold. **TD(1)** is definded as **:** on tap and **Alt** on hold. You could mirror this functionlity on the left side if needed.
 
-This results in the home row being (){}&  ^"':;
+This results in the home row being **<pre>(){}&       ^"':;</pre>**
+
+Having the **=** key also on this layer is must for coding and it feels way better on the left side in this case. **TD(2)** is defined in Vial as **~** on tap and **`** on double tap.
 
 Pressing the **OSL(3)** thumb key on the left (at this point I am still holding the right layer key) will toggle the Uppercase layer. I can let go of both thumb keys and type a single uppercase letter or hold both to continue typing in uppercase.
+
+<img src="images/graphite-code-tap-dance.png" alt="graphite layout" width="500"/>
 
 ## 3: Graphite Upper
 

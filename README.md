@@ -18,7 +18,7 @@ I felt that having **C** and **V** on the left hand was important so that I can 
 
 The **MO(1)** and **MO(2)** keys will change layers to [Navigation](#1-navigation--numpad) or [Code](#2-code--symbols) while held individually.
 
-The **Backspace** key is triggered when tapped or if tapped and then held. If held without tapping, it triggers the [Home Row Mods layer](#4-homerow-mods). The Layer Tap functionallity delay is not an issue on the **Backspace** key, but it is noticeable if you use it on the **Space** key.
+The **Backspace** key is triggered when tapped or if tapped and then held. If held without tapping, it triggers the [Home Row Mods layer](#4-homerow-mods). The Layer Tap functionallity delay is not an issue on the **Backspace** key.
 
 ## 1: Navigation / Numpad
 
